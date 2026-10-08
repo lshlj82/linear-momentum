@@ -52,7 +52,7 @@ The nine sections follow the order of the lecture notes. Every value is recomput
 - **Section 3:** The explosion is set by a relative speed between the fragments. Momentum conservation fixes each fragment's velocity.
 - **Section 5:** The bumper is a spring with a damper, tuned to match the chosen bounciness. At zero bounciness, the carts stick together.
 - **Timing:** Some animations are slowed down so the motion is easy to follow, but every readout shows the real value.
-- **Display:** The page follows your system's light or dark setting. If you have `prefers-reduced-motion` turned on, the animation at the top of the page stays still.
+- **Display:** The page follows your system's light or dark setting, and a sun/moon button in the top-right corner switches by hand, and the choice is remembered across pages. If you have `prefers-reduced-motion` turned on, the animation at the top of the page stays still.
 
 ## Credits
 
